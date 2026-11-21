@@ -1,0 +1,89 @@
+{
+  "roll": 50,
+  "title": "Aptitude Question Generator",
+  "goal": "Practise placement aptitude and reasoning by topic and difficulty.",
+  "fields": [
+    "Topic",
+    "Difficulty"
+  ],
+  "prompt": "Generate exactly one original multiple-choice aptitude problem of the requested topic and difficulty. Return JSON {\"question\":\"...\",\"options\":[\"...\",\"...\",\"...\",\"...\"],\"correct_option\":\"exact option text\",\"solution\":\"...\"}. Copy the correct option verbatim into correct_option. Use distinct options. Work out the math before giving the answer. Explain the correct answer in the solution.",
+  "samples": {
+    "Sample 1": [
+      "Percentages",
+      "Easy"
+    ],
+    "Sample 2": [
+      "Ratios",
+      "Easy"
+    ],
+    "Sample 3": [
+      "Number series",
+      "Medium"
+    ],
+    "Sample 4": [
+      "Probability",
+      "Medium"
+    ],
+    "Sample 5": [
+      "Time and work",
+      "Hard"
+    ]
+  },
+  "practice": [
+    [
+      "A jacket marked ₹120 is discounted by 20%. What is the sale price?",
+      [
+        "₹90",
+        "₹96",
+        "₹100",
+        "₹108"
+      ],
+      1,
+      "20% of ₹120 is ₹24. Subtract ₹24 from ₹120 to get ₹96."
+    ],
+    [
+      "Flour and sugar are mixed in a 3:2 ratio. How many cups of sugar are needed for 6 cups of flour?",
+      [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      2,
+      "The flour doubles from 3 to 6 cups, so the sugar doubles from 2 to 4 cups."
+    ],
+    [
+      "What comes next in the sequence 3, 7, 13, 21, 31?",
+      [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      3,
+      "The gaps are 4, 6, 8, and 10. Add the next gap, 12, to 31 to get 43."
+    ],
+    [
+      "A bag contains 5 red balls and 3 blue balls. Two balls are drawn without replacement. What is the probability that both are red?",
+      [
+        "5/14",
+        "1/2",
+        "5/8",
+        "25/64"
+      ],
+      0,
+      "The chances are 5/8 and then 4/7. Multiply to obtain 20/56 = 5/14."
+    ],
+    [
+      "A finishes a job in 12 days and B in 18. Both work for 3 days, then B leaves. How many more days does A need?",
+      [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      2,
+      "Together they work at 5/36 of the job per day. After 3 days, 7/12 remains. A works at 1/12 per day and needs 7 more days."
+    ]
+  ]
+}
