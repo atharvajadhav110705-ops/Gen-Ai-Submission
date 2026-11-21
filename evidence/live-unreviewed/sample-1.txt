@@ -1,0 +1,21 @@
+
+
+A store is having a sale where all items are 20% off. If a jacket originally costs $120, how much will it cost after the discount?
+
+Choose an answer
+
+120
+
+96
+
+108
+
+112
+
+keyboard_arrow_down
+
+Show solution
+
+Answer: 96
+
+To find the cost of the jacket after the 20% discount, we first calculate the amount of the discount. The discount is 20% of $120, which is 0.20 * $120 = $24. We then subtract this discount from the original price: $120 - $24 = $96. Therefore, the jacket will cost $96 after the 2

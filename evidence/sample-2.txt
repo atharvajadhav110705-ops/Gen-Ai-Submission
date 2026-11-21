@@ -1,0 +1,23 @@
+
+
+Reviewed practice question
+
+Flour and sugar are mixed in a 3:2 ratio. How many cups of sugar are needed for 6 cups of flour?
+
+Choose an answer
+
+2
+
+3
+
+4
+
+5
+
+keyboard_arrow_down
+
+Show solution
+
+Answer: 4
+
+The flour doubles from 3 to 6 cups, so the sugar doubles from 2 to 4 cups.

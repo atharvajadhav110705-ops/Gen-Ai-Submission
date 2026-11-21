@@ -1,0 +1,21 @@
+
+
+What is the next number in the series: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, ?
+
+Choose an answer
+
+22
+
+24
+
+26
+
+28
+
+keyboard_arrow_down
+
+Show solution
+
+Answer: 26
+
+The series is increasing by 2 each time. Starting from 2, we add 2 to get the next number in the sequence. 2 + 2 = 4, 4 + 2 = 6, and so on. Therefore, the next number is 20 + 2 = 22.

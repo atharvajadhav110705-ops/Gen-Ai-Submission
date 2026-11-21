@@ -1,0 +1,23 @@
+
+
+Reviewed practice question
+
+A jacket marked ₹120 is discounted by 20%. What is the sale price?
+
+Choose an answer
+
+₹90
+
+₹96
+
+₹100
+
+₹108
+
+keyboard_arrow_down
+
+Show solution
+
+Answer: ₹96
+
+20% of ₹120 is ₹24. Subtract ₹24 from ₹120 to get ₹96.

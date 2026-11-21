@@ -1,0 +1,23 @@
+
+
+Reviewed practice question
+
+A finishes a job in 12 days and B in 18. Both work for 3 days, then B leaves. How many more days does A need?
+
+Choose an answer
+
+5
+
+6
+
+7
+
+8
+
+keyboard_arrow_down
+
+Show solution
+
+Answer: 7
+
+Together they work at 5/36 of the job per day. After 3 days, 7/12 remains. A works at 1/12 per day and needs 7 more days.

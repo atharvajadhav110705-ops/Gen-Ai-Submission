@@ -1,0 +1,23 @@
+
+
+Reviewed practice question
+
+A bag contains 5 red balls and 3 blue balls. Two balls are drawn without replacement. What is the probability that both are red?
+
+Choose an answer
+
+5/14
+
+1/2
+
+5/8
+
+25/64
+
+keyboard_arrow_down
+
+Show solution
+
+Answer: 5/14
+
+The chances are 5/8 and then 4/7. Multiply to obtain 20/56 = 5/14.

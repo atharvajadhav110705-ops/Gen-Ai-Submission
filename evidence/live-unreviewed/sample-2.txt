@@ -1,0 +1,21 @@
+
+
+A recipe calls for 3 cups of flour and 2 cups of sugar. If you want to make half of the recipe, how many cups of flour and sugar do you need?
+
+Choose an answer
+
+1 cup of flour and 1 cup of sugar
+
+1.5 cups of flour and 1 cup of sugar
+
+1.5 cups of flour and 2 cups of sugar
+
+1 cup of flour and 2 cups of sugar
+
+keyboard_arrow_down
+
+Show solution
+
+Answer: 1.5 cups of flour and 1 cup of sugar
+
+To find out how much flour and sugar are needed for half of the recipe, we first determine the total amount of ingredients in the original recipe and then divide each by 2.

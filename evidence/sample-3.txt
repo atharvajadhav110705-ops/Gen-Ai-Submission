@@ -1,0 +1,23 @@
+
+
+Reviewed practice question
+
+What comes next in the sequence 3, 7, 13, 21, 31?
+
+Choose an answer
+
+40
+
+41
+
+42
+
+43
+
+keyboard_arrow_down
+
+Show solution
+
+Answer: 43
+
+The gaps are 4, 6, 8, and 10. Add the next gap, 12, to 31 to get 43.

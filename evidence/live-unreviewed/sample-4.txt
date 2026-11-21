@@ -1,0 +1,25 @@
+
+
+A bag contains 5 red balls and 3 blue balls. If two balls are drawn at random without replacement, what is the probability that both balls are red?
+
+Choose an answer
+
+0.33
+
+0.5
+
+0.67
+
+0.75
+
+keyboard_arrow_down
+
+Show solution
+
+Answer: 0.5
+
+To find the probability that both balls drawn are red, we first calculate the total number of ways to draw 2 balls from the 8 balls in the bag. This can be done using combinations:
+
+C(8,2) = 8! / [2!(8-2)!] = 28 ways
+
+Next, we calculate the number of ways to draw 2 red balls out
